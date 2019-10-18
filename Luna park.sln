@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Luna park", "Luna park.csproj", "{59130F82-FC4F-45A3-8335-CB0B23765E23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59130F82-FC4F-45A3-8335-CB0B23765E23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59130F82-FC4F-45A3-8335-CB0B23765E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59130F82-FC4F-45A3-8335-CB0B23765E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59130F82-FC4F-45A3-8335-CB0B23765E23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A23D281-ACE1-46D8-8420-0E2705EF5DE9}
+	EndGlobalSection
+EndGlobal
